@@ -1,0 +1,14 @@
+#screen{
+    position: absolute
+}
+
+#mydiv{
+    
+}
+
+.putInfo {
+    bottom: 0%;
+    position: fixed;
+    float: left
+
+}
